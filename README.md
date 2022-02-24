@@ -21,11 +21,11 @@ Le but du projet est...
   - Qui a fait quoi ? <br>
   👤 **Guillaume Gruber** <br>
     [...]
-
+  <br>
   👤 **Lucas Cassan** <br>
     [...]
-  
+  <br>
   👤 **Clement Gras** <br>
     [...]
- 
+  <br>
 ---
