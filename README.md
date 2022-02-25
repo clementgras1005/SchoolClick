@@ -2,7 +2,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/fixed-bugs.svg)](https://forthebadge.com)
 
-Création d'une application mobile disponible gratuitement, elle permet de faciliter la recherche d'écoles supérieures pour les étudiants et faciliter le recrutement pour les écoles (interface web).
+Création d'une application mobile disponible gratuitement, elle permet de faciliter la recherche d'écoles supérieures pour les étudiants et faciliter le recrutement pour les écoles *(interface web)*.
 
 ## Pour commencer
 
@@ -10,26 +10,11 @@ Entrez ici les instructions pour bien débuter avec votre projet...
 
 ### Pré-requis
 
-Ce qu'il est requis pour commencer avec votre projet...
-
-- Programme 1
-- Programme 2
-- etc...
-
-### Installation
-
-Les étapes pour installer votre programme....
-
-Dites ce qu'il faut faire...
-
-_exemple_: Executez la commande ``telnet mapscii.me`` pour commencer ensuite [...]
-
-
-Ensuite vous pouvez montrer ce que vous obtenez au final...
+_[EN COURS DE DÉVELOPEMENT]_
 
 ## Démarrage
 
-Dites comment faire pour lancer votre projet
+_[EN COURS DE DÉVELOPEMENT]_
 
 ## Fabriqué avec
 
@@ -38,8 +23,6 @@ Dites comment faire pour lancer votre projet
 * [MangoDB](https://www.mongodb.com) - Base de données orientée documents.
 
 ## Contributing
-
-La contribution n'est pas encore ouverte pour notre projet
 
 *Si vous souhaitez contribuer, lisez le fichier [CONTRIBUTING.md](https://example.org) pour savoir comment le faire.*
 
