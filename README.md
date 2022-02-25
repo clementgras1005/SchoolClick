@@ -1,7 +1,5 @@
 # **SchoolClick**
 
-_(juste en dessous des badges sympatiques à placer)_
-
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/fixed-bugs.svg)](https://forthebadge.com)
 
 Création d'une application mobile disponible gratuitement, elle permet de faciliter la recherche d'écoles supérieures pour les étudiants et faciliter le recrutement pour les écoles (interface web).
@@ -47,9 +45,11 @@ La contribution n'est pas encore ouverte pour notre projet
 
 ## Versions
 
-**Dernière version stable :** 1.0
-**Dernière version :** 1.0
-Liste des versions : [Cliquer pour afficher](https://github.com/Lucas-Cassan/SchoolClick/tags)
+**Dernière version stable :** 1.0 
+
+**Dernière version :** 1.0 
+
+Liste des versions : [Cliquer pour afficher](https://github.com/Lucas-Cassan/SchoolClick/tags) 
 
 ## Auteurs
 
