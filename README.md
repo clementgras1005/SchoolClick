@@ -1,10 +1,8 @@
 # **SchoolClick**
 
-_(juste en dessous des badges sympatiques à placer)_
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://fr.wikipedia.org/wiki/JavaScript)      [![forthebadge](https://forthebadge.com/images/badges/fixed-bugs.svg)]()
 
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
-
-[	Description du projet...	]
+Création d'une application mobile disponible gratuitement, elle permet de faciliter la recherche d'écoles supérieures pour les étudiants et faciliter le recrutement pour les écoles *(interface web)*.
 
 ## Pour commencer
 
@@ -12,35 +10,17 @@ Entrez ici les instructions pour bien débuter avec votre projet...
 
 ### Pré-requis
 
-Ce qu'il est requis pour commencer avec votre projet...
-
-- Programme 1
-- Programme 2
-- etc...
-
-### Installation
-
-Les étapes pour installer votre programme....
-
-Dites ce qu'il faut faire...
-
-_exemple_: Executez la commande ``telnet mapscii.me`` pour commencer ensuite [...]
-
-
-Ensuite vous pouvez montrer ce que vous obtenez au final...
+_[EN COURS DE DÉVELOPEMENT]_
 
 ## Démarrage
 
-Dites comment faire pour lancer votre projet
+_[EN COURS DE DÉVELOPEMENT]_
 
 ## Fabriqué avec
 
-Entrez les programmes/logiciels/ressources que vous avez utilisé pour développer votre projet
-
-_exemples :_
-
-* [Materialize.css](http://materializecss.com) - Framework CSS (front-end)
-* [Atom](https://atom.io/) - Editeur de textes
+* [ReactNative](https://reactnative.dev) - Framework JavaScript .
+* [SCSS](https://sass-lang.com) - Compilateur CSS *(postcss)*.
+* [MangoDB](https://www.mongodb.com) - Base de données orientée documents.
 
 ## Contributing
 
@@ -48,17 +28,17 @@ Si vous souhaitez contribuer, lisez le fichier [CONTRIBUTING.md](https://example
 
 ## Versions
 
+**Dernière version stable :** 1.0 
 
+**Dernière version :** 1.0 
 
-**Dernière version stable :** 1.0
-**Dernière version :** 1.0
-Liste des versions : [Cliquer pour afficher](https://github.com/your/project-name/tags)
-_(pour le lien mettez simplement l'URL de votre projets suivi de ``/tags``)_
+Liste des versions : [Cliquer pour afficher](https://github.com/Lucas-Cassan/SchoolClick/tags) 
 
 ## Auteurs
 
 * **Lucas Cassan** _alias_ [@Lucas-Cassan](https://github.com/Lucas-Cassan)
 * **Guillaume Gruber** _alias_ [@lagrube](https://github.com/lagrube)
+* **Clément Gras** _alias_ [@clementgras1005](https://github.com/clementgras1005)
 
 ## License
 
