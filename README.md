@@ -1,6 +1,6 @@
 # **SchoolClick**
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/fixed-bugs.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://fr.wikipedia.org/wiki/JavaScript)      [![forthebadge](https://forthebadge.com/images/badges/fixed-bugs.svg)]()
 
 Création d'une application mobile disponible gratuitement, elle permet de faciliter la recherche d'écoles supérieures pour les étudiants et faciliter le recrutement pour les écoles *(interface web)*.
 
