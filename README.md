@@ -24,7 +24,7 @@ _[EN COURS DE DÉVELOPEMENT]_
 
 ## Contributing
 
-Si vous souhaitez contribuer, lisez le fichier [CONTRIBUTING.md](https://example.org) pour savoir comment le faire.
+*Si vous souhaitez contribuer, lisez le fichier [CONTRIBUTING.md](https://example.org) pour savoir comment le faire.*
 
 ## Versions
 
