@@ -2,7 +2,9 @@ const mongoose = require("mongoose");
 
 mongoose
   .connect(
-    "mongodb+srv://lagrube:azerty@cluster0.hrvir.mongodb.net/movies_and_me",
+    "mongodb+srv://" +
+      process.env.DB_USER_PASS +
+      "@schoolclick.juzus.mongodb.net/",
     {
       useNewUrlParser: true,
       useUnifiedTopology: true,

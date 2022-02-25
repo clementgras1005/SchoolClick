@@ -3,6 +3,7 @@ const bodyParser = require("body-parser");
 const cors = require("cors");
 
 // MongoDb
+require("dotenv").config({ path: "./config/.env" });
 require("./config/db");
 
 // Routes
