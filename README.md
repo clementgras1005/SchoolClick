@@ -18,8 +18,8 @@ _[EN COURS DE DÉVELOPEMENT]_
 
 ## Fabriqué avec
 
-* [SCSS](https://sass-lang.com) - Compilateur CSS (postcss).
 * [ReactNative](https://reactnative.dev) - Framework JavaScript .
+* [SCSS](https://sass-lang.com) - Compilateur CSS *(postcss)*.
 * [MangoDB](https://www.mongodb.com) - Base de données orientée documents.
 
 ## Contributing
